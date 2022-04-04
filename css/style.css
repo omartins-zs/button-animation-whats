@@ -27,6 +27,9 @@ body {
 
     animation: pulsar 0.8s ease-out 1s infinite alternate none running;
 }
+a {
+    color: inherit;
+}
 
 @keyframes pulsar {
     0% {
